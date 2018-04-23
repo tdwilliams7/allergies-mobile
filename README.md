@@ -2,11 +2,11 @@
 
 [WebVersion](https://github.com/tdwilliams7/allergyfinder)
 
-###Client
+### Client
 
 * React-Native, Native-Base, maybe react-router-navigation(still deciding to the router), Probably redux, figure out jwts for auth.
 
-###Backend
+### Backend
 
 * Server will look a lot like the server for Web Version.
 
