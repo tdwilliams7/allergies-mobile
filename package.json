@@ -1,0 +1,26 @@
+{
+  "name": "allergies-mobile",
+  "version": "1.0.0",
+  "description": "[WebVersion](https://github.com/tdwilliams7/allergyfinder)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tdwilliams7/allergies-mobile.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tdwilliams7/allergies-mobile/issues"
+  },
+  "homepage": "https://github.com/tdwilliams7/allergies-mobile#readme",
+  "dependencies": {
+    "bcrypt": "^2.0.1",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.16"
+  }
+}
